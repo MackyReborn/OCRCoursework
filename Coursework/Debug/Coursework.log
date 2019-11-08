@@ -1,0 +1,10 @@
+﻿  Coursework.cpp
+  Files.cpp
+  Game.cpp
+C:\Users\Macky\source\repos\Coursework\Coursework\Files.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Macky\source\repos\Coursework\Coursework\Game.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Macky\source\repos\Coursework\Coursework\Game.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Macky\source\repos\Coursework\Coursework\Game.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Macky\source\repos\Coursework\Coursework\Game.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+  Coursework.vcxproj -> C:\Users\Macky\source\repos\Coursework\Debug\Coursework.exe
